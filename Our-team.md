@@ -23,7 +23,7 @@ Teammate 3
 * **Date of Birth** : 07/11/2002
 * **Hobby** : play games 🎮
 * **Province** : Chaiyaphum
-* **Phone number** : 0945902635
+* **Phone number** : 094-590-2635
 * **IG** : [ppiinntch](https://www.instagram.com/mint_nncz/)   
 *  **Favorite Food** : Friend Basil
 *  **Favorite Pet** : cat 🐱
