@@ -13,7 +13,7 @@
 *  **Favorite Food**: ต้มยำ
 *  **Favorite Pet**: แมว
 *  **Future Career**: นักพัฒนาเว็บไซต์
----
+
 ## *Teammate 2*
 <img src="image/neng.jpg" height= 400 wiidth= 250>
 
