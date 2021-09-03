@@ -1,6 +1,6 @@
 # *TEAM INTERVIEW*
 ## *Teammate 1*  
-<img src="image/ice.jpg" height=450  width=250>
+<img src="image/ice.jpg" height=350  width=200>
 
 * **Name**:  นส.นันทวัน เปล่งรัศมี
 * **Student ID**: 64130500044
@@ -15,7 +15,7 @@
 *  **Future Career**: นักพัฒนาเว็บไซต์
 
 ## *Teammate 2*
-<img src="image/neng.jpg" height= 400 wiidth= 250>
+<img src="image/neng.jpg" height= 250 wiidth= 250>
 
 * **Name** : นายเตชธรรม กาญจนสุทธากุล
 * **Student ID**: 64130500025
