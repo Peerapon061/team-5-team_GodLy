@@ -1,6 +1,18 @@
 # *TEAM INTERVIEW*
 ---
 Teammate 1  
+
+* **Name** :
+* **Student ID** :
+* **Age** :
+* **Date of Birth** :
+* **Hobby** :
+* **Province** :
+* **Phone number** :
+* **IG** : [link](https://www.instagram.com/)   (ใส่link profile IG) 
+*  **Favorite Food** : 
+*  **Favorite Pet** :
+*  **Future Career** :
 ---
 Teammate 2  
 ---
