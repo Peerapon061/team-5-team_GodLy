@@ -16,7 +16,7 @@ Teammate 3
 * **Hobby**: play game , read a novel ,watch anime
 * **Province**: Chonburi
 * **Phone number**: 0946204670
-* **IG**: https://www.instagram.com/ppiinntch/
+* **IG**: [ppiinntch](https://www.instagram.com/ppiinntch/utm_medium=copy_link)
 * **Favorite Food**: salmon sashimi
 * **Favorite Pet**: Rabbit
 * **Future Career**: Web Developer
