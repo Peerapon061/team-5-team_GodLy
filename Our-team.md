@@ -1,7 +1,4 @@
 # *TEAM INTERVIEW*
-|The origin of the team name|
-|---------------------------|
-|....|
 ---
 Teammate 1  
 ---
