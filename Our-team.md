@@ -9,6 +9,10 @@ Teammate 3
 ## *Teammate 4*
 <img src="S__2039848.jpg" height=250 width=250>
 
+| **Gennder** |
+|--------------|
+- [ ] _Male_   
+- [x]  _Female_
 * **Name**: Natnicha Sirinipatkul
 * **Student ID**: 64130500021
 * **Age**: 19 Y
