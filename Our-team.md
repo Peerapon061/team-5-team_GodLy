@@ -21,7 +21,7 @@ Teammate 3
 * **Hobby** : play games 🎮
 * **Province** : Chaiyaphum
 * **Phone number** : 0945902635
-* **IG** : https://www.instagram.com/mint_nncz/   
+* **IG** : [ppiinntch](https://www.instagram.com/mint_nncz/)   
 *  **Favorite Food** : Friend Basil
 *  **Favorite Pet** : cat 🐱
 *  **Future Career** : Game maker ⭐
