@@ -1,8 +1,4 @@
 # *TEAM INTERVIEW*
-
-
-
-
 ## *Teammate 1*  
 <img src="image/ice.jpg" height=350  width=200>
 
