@@ -1,6 +1,6 @@
 # *TEAM INTERVIEW*
 ## *Teammate 1*  
-<img src="image/ice.jpg" height=200  width=150>
+<img src="image/ice.jpg" height=400  width=250>
 
 * **Name**:  นส.นันทวัน เปล่งรัศมี
 * **Student ID**: 64130500044
