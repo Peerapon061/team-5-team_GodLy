@@ -4,9 +4,9 @@
 
 * **Name**:  นส.นันทวัน เปล่งรัศมี
 * **Student ID**: 64130500044
-* **Age**:
+* **Age**: 18 ปี
 * **Date of Birth**: 31/05/2546
-* **Hobby**:
+* **Hobby**: ฟังเพลง เล่นเกม
 * **Province**: กรุงเทพมหานคร
 * **Phone number**: 083-062-5993
 * **IG**: [nanthawa.ice](https://instagram.com/nanthawan.ice?utm_medium=copy_link) 
