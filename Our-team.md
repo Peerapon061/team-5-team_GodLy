@@ -1,6 +1,6 @@
 # *TEAM INTERVIEW*
 ## *Teammate 1*  
-<img src="">
+<img src="image/ice.png">
 
 * **Name** :
 * **Student ID** :
