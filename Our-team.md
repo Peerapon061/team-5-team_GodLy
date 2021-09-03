@@ -23,7 +23,7 @@
 * **Date of Birth**: 10/09/2545
 * **Hobby**: เล่นเกม
 * **Province** : กรุงเทพมหานคร
-* **Phone number**: 0894587037
+* **Phone number**: 089-458-7037
 * **IG** : [Ig neng]https://www.instagram.com/tk.neng/
 * **Favorite Food**: กะเพราหมูกรอบ
 * **Favorite Pet** : แมว สุนัข
