@@ -28,6 +28,7 @@
 * **Favorite Food**: กะเพราหมูกรอบ
 * **Favorite Pet** : แมว สุนัข
 * **Future Career**: software engineer
+
 ---
 Teammate 3
 ---
