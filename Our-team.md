@@ -11,12 +11,12 @@
 * **Age**: 18 Y
 * **Date of Birth**: 31/05/2546
 * **Hobby**: ฟังเพลง🎵 เล่นเกม🎮
-* **Province**: กรุงเทพมหานคร
+* **Province**: Bangkok
 * **Phone number**: 083-062-5993
 * **IG**: [nanthawa.ice](https://instagram.com/nanthawan.ice?utm_medium=copy_link) 
-*  **Favorite Food**: ต้มยำ
+*  **Favorite Food**: Tom Yum
 *  **Favorite Pet**: Cat🐱
-*  **Future Career**: นักพัฒนาเว็บไซต์
+*  **Future Career**: Web Developer
 ---
 ## *Teammate 2*
 <img src="image/neng.jpg" height= 250 wiidth= 250>
