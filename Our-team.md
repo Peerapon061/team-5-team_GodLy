@@ -7,7 +7,7 @@ Teammate 2
 Teammate 3
 ---
 ## *Teammate 4*
-<img src="S__pin.jpg" height=260 width=260>
+<img src="https://github.com/Peerapon061/team-5-team_GodLy/blob/main/image/S__pin.jpg" height=260 width=260>
 
 | **Gennder** |
 |--------------|
