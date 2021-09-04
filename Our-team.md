@@ -2,17 +2,21 @@
 ## *Teammate 1*  
 <img src="image/ice.jpg" height=350  width=200>
 
-* **Name**:  นส.นันทวัน เปล่งรัศมี
+| **Gennder** |
+|--------------|
+- [ ] _Male_   
+- [x]  _Female_
+* **Name**:  ```นส.นันทวัน เปล่งรัศมี```
 * **Student ID**: 64130500044
-* **Age**: 18 ปี
+* **Age**: 18 Y
 * **Date of Birth**: 31/05/2546
-* **Hobby**: ฟังเพลง เล่นเกม
-* **Province**: กรุงเทพมหานคร
+* **Hobby**: ฟังเพลง🎵 เล่นเกม🎮
+* **Province**: Bangkok
 * **Phone number**: 083-062-5993
 * **IG**: [nanthawa.ice](https://instagram.com/nanthawan.ice?utm_medium=copy_link) 
-*  **Favorite Food**: ต้มยำ
-*  **Favorite Pet**: แมว
-*  **Future Career**: นักพัฒนาเว็บไซต์
+*  **Favorite Food**: Tom Yum
+*  **Favorite Pet**: Cat🐱
+*  **Future Career**: Web Developer
 ---
 ## *Teammate 2*
 <img src="image/neng.jpg" height= 250 wiidth= 250>
