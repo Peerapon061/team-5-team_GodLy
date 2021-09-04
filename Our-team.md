@@ -40,8 +40,8 @@
 ---
 Teammate 3
 -----
-![2](https://user-images.githubusercontent.com/88108990/131996566-36683150-5c83-48b4-bf35-48b9ee7b0af9.jpg)
 
+<img src="image/Mint.jpg" height= 400 wiidth= 300>
 
 * **Name** : ```Natnicha Chewaram``` 
 * **Student ID** : ```64130500020```
@@ -55,7 +55,7 @@ Teammate 3
 * **Hobby** : play games 🎮
 * **Province** : Chaiyaphum
 * **Phone number** : 094-590-2635
-* **IG** : [ppiinntch](https://www.instagram.com/mint_nncz/)   
+* **IG** : [mint_nncz](https://www.instagram.com/mint_nncz/)   
 *  **Favorite Food** : Friend Basil
 *  **Favorite Pet** : cat 🐱
 *  **Future Career** : Game maker ⭐
