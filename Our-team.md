@@ -10,10 +10,13 @@ Teammate 4
 ---
 Teammate 5
 ---
-Teammate 6
-![พี](https://user-images.githubusercontent.com/88106678/132031520-0cba1ced-6046-4019-8f75-f23e55bd49d8.jpg)
-* **Name** : ```Peerapon Sriwichupong``` 
-* **Student ID** : ```64130500061```
+## **Teammate 6**  
+<image src="https://github.com/Peerapon061/team-5-team_GodLy/blob/main/image/pee.jpg" height=370 weight=350>
+  
+  
+* **Name**:```Peerapon Sriwichupong```
+* **Student id**:```64130500061```
+
 
 | **Gennder** |
 |--------------|
