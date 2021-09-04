@@ -41,7 +41,7 @@
 * **Province** : กรุงเทพมหานคร
 * **Phone number**: 089-458-7037
 * **IG** : [tk.neng](https://www.instagram.com/tk.neng/)
-* **Favorite Food**: กะเพราหมูกรอบ
+* **Favorite Food**: กะเพราหมูกรอบ  🥘
 * **Favorite Pet** : แมว 🐱 สุนัข 🐶
 * **Future Career**: software engineer
 
