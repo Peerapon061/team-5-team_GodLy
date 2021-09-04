@@ -7,7 +7,7 @@
 
 <img src="image/ice.jpg" height=350  width=200>
 
-* **Name**:  ```นส.นันทวัน เปล่งรัศมี```
+* **Name**:  ```Nanthawan Prangratsmee```
 * **Student ID**: ```64130500044```
 
 | **Gennder** |
@@ -16,7 +16,7 @@
 - [x]  _Female_
 * **Age**: 18 Y
 * **Date of Birth**: 31/05/2546
-* **Hobby**: ฟังเพลง🎵 เล่นเกม🎮
+* **Hobby**: Listen to music🎵 play games🎮
 * **Province**: Bangkok
 * **Phone number**: 083-062-5993
 * **IG**: [nanthawa.ice](https://instagram.com/nanthawan.ice?utm_medium=copy_link) 
@@ -28,21 +28,21 @@
 ## *Teammate 2*
 <img src="image/neng.jpg" height= 250 wiidth= 250>
 
-* **Name** : ```นายเตชธรรม กาญจนสุทธากุล```
+* **Name** : ```Techatham kanjanasuttakul```
 * **Student ID**: ```64130500025```
 
 | **Gennder** |
 |--------------|
 - [x] _Male_   
 - [ ]  _Female_
-* **Age**: 18 ปี
+* **Age**: 18 Y
 * **Date of Birth**: 10/09/2545
-* **Hobby**: เล่นเกม  🎮
-* **Province** : กรุงเทพมหานคร
+* **Hobby**: play games  🎮
+* **Province** : Bangkok
 * **Phone number**: 089-458-7037
 * **IG** : [tk.neng](https://www.instagram.com/tk.neng/)
-* **Favorite Food**: กะเพราหมูกรอบ  🥘
-* **Favorite Pet** : แมว 🐱 สุนัข 🐶
+* **Favorite Food**: crispy pork with Thai basil  🥘
+* **Favorite Pet** : cat 🐱 dog 🐶
 * **Future Career**: software engineer
 
 ---
@@ -58,7 +58,7 @@ Teammate 3
 |--------------|
 - [ ] _Male_   
 - [x]  _Female_
-* **Age** : 18Y
+* **Age** : 18 Y
 * **Date of Birth** : 07/11/2002
 * **Hobby** : play games 🎮
 * **Province** : Chaiyaphum
@@ -103,7 +103,7 @@ Teammate 5
 
 - [ ] _Male_   
 - [x]  _Female_
-* **Age** : 18Y
+* **Age** : 18 Y
 * **Date of Birth** : 27/06/2003
 * **Hobby** : watch anime 
 * **Province** : Nonthaburi
@@ -125,7 +125,7 @@ Teammate 5
 |--------------|
 - [x] _Male_   
 - [ ]  _Female_
-* **Age** : 19Y
+* **Age** : 19 Y
 * **Date of Birth** : 06/09/2002
 * **Hobby** : Watch anime 📺
 * **Province** : Bangkok
