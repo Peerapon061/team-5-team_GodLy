@@ -1,24 +1,16 @@
 # *TEAM INTERVIEW*
 ## *Teammate 1*  
-<img src="image/ice.jpg" height=450  width=250>
-
-* **Name**:  นส.นันทวัน เปล่งรัศมี
-* **Student ID**: 64130500044
-* **Age**: 18 ปี
-* **Date of Birth**: 31/05/2546
-* **Hobby**: ฟังเพลง เล่นเกม
-* **Province**: กรุงเทพมหานคร
-* **Phone number**: 083-062-5993
-* **IG**: [nanthawa.ice](https://instagram.com/nanthawan.ice?utm_medium=copy_link) 
-*  **Favorite Food**: ต้มยำ
-*  **Favorite Pet**: แมว
-*  **Future Career**: นักพัฒนาเว็บไซต์
 
 ## *Teammate 2*
 <img src="image/neng.jpg" height= 400 wiidth= 250>
 
 * **Name** : นายเตชธรรม กาญจนสุทธากุล
 * **Student ID**: 64130500025
+
+| **Gennder** |
+|--------------|
+- [x] _Male_   
+- [ ]  _Female_
 * **Age**: 18 ปี
 * **Date of Birth**: 10/09/2545
 * **Hobby**: เล่นเกม
