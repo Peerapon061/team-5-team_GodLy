@@ -7,7 +7,7 @@ Teammate 2
 Teammate 3
 ---
 ## *Teammate 4*
-<img src="S__2039848.jpg" height=260 width=260>
+<img src="S__pin.jpg" height=260 width=260>
 
 | **Gennder** |
 |--------------|
